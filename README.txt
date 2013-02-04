@@ -1,0 +1,1 @@
+Research for using Kinect Sensor in conjunction with NDI 3d camera system to create more accurate models of determining arm positioning. 
